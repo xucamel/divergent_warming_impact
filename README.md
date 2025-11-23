@@ -1,0 +1,5 @@
+In this work, we utilize three datasets which are publicly available without restrictions: (1) daily temperature profiles of lakes, (2) geographic ranges of the lake fish species, and (3) thermal metrics and spawning seasons for each species. 
+
+(1) data source J. S. Corson-Dosch, H.R., Mcaliley, W.A., Platt, L.R.C., Padilla, J.A., and Read, Daily water column temperature predictions for thousands of Midwest U.S. lakes between 1979-2022 and under future climate scenarios (2023). https://doi.org/https://doi.org/10.5066/P9EQQER7.
+(2) data source Daniel, W.M., M. E. Neilson, Native ranges of freshwater fishes of North America (2022). https://doi.org/https://doi.org/10.5066/P9C4N10N.
+(3) data source S. S. Hasnain, M. D. Escobar, B. J. Shuter, Estimating thermal response metrics for North American freshwater fish using Bayesian phylogenetic regression. Can. J. Fish. Aquat. Sci. 75, 1878–1885 (2018). & S. S. Hasnain, B. J. Shuter, C. K. Minns, Phylogeny influences the relationships linking key ecological thermal metrics for North American freshwater fish species. Can. J. Fish. Aquat. Sci. 70, 964–972 (2013).
